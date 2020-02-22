@@ -1,0 +1,25 @@
+{
+  "name": "oith8-lib",
+  "version": "8.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaredparkinson/oith8-lib.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaredparkinson/oith8-lib/issues"
+  },
+  "homepage": "https://github.com/jaredparkinson/oith8-lib#readme",
+  "dependencies": {
+    "@types/cheerio": "^0.22.16",
+    "cheerio": "^1.0.0-rc.3",
+    "rxjs": "^6.5.4",
+    "typescript": "^3.7.5"
+  }
+}
